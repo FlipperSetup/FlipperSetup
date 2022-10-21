@@ -1,1 +1,1 @@
-# FlipperZeroPlugAndPlay
+# Flipper Plug And Play
