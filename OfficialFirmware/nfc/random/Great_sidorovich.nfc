@@ -1,0 +1,12 @@
+Filetype: Flipper NFC device
+Version: 2
+# Nfc device type can be UID, Mifare Ultralight, Mifare Classic, Bank card
+Device type: Bank card
+# UID, ATQA and SAK are common for all formats
+UID: 19 2D 73 BE 00 00 00
+ATQA: 44 00
+SAK: 20
+# Bank card specific data
+AID: A0 00 00 00 98 08 40
+Name: US DEBIT
+Number: 40 23 47 06 05 13 59 12
