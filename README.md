@@ -8,3 +8,6 @@ For New Users or Current Users Plug & Play
 
 FPAP Is ment to help new users setup there flippers easier 
 Is as Simple as drag and drop
+
+# Every File Was Found on 
+https://github.com/UberGuidoZ/Flipper
