@@ -1,4 +1,4 @@
-# All Info About Official Firmware
+# All Info About Official Firmware Is Below
 ### NOTE I DO NOT CLAIM THIS PROJECT
 
 # Flipper Zero Firmware
