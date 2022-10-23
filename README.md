@@ -1,3 +1,7 @@
+# ⚠️ Warning ⚠️
+I Am Not Liable For Anything You Do With This
+By Using This Git You Are Fully Responsible For Anything You Do
+
 # Flipper Plug And Play
 If Im Missing Somthing Feel Free To Let Me Know Or Add It
 
