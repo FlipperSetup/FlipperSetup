@@ -1,0 +1,10 @@
+# Adult Toys Playlist
+sub: /ext/subghz/Misc/Sextoy/Sextoy1.sub
+sub: /ext/subghz/Misc/Sextoy/Sextoy2.sub
+sub: /ext/subghz/Misc/Sextoy/Sextoy3.sub
+sub: /ext/subghz/Misc/Sextoy/Sextoy4.sub
+sub: /ext/subghz/Misc/Sextoy/EggVibrator/Egg_vib_intensity.sub
+sub: /ext/subghz/Misc/Sextoy/EggVibrator/Egg_vib_mode.sub
+sub: /ext/subghz/Misc/Sextoy/EggVibrator/Egg_vib_power.sub
+sub: /ext/subghz/Misc/Sextoy/SinfulBulletVibrator/Sinful_level.sub
+sub: /ext/subghz/Misc/Sextoy/SinfulBulletVibrator/Sinful_power.sub
