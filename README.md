@@ -9,6 +9,8 @@ FPAP Isn't Done Still adding More
 
 For New Users or Current Users Plug & Play
 
+Will add steps just in case but it should be pretty clear on what to do
+
 # What is Flipper Plug & Play (FPAP For Short)
 
 FPAP Is ment to help new users setup there flippers easier 
