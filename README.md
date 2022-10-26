@@ -10,6 +10,7 @@ FPAP Isn't Done Still adding More
 For New Users or Current Users Plug & Play
 
 Will add steps just in case but it should be pretty clear on what to do
+[Steps](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/Steps)
 
 # What is Flipper Plug & Play (FPAP For Short)
 
