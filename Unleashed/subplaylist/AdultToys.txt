@@ -8,3 +8,13 @@ sub: /ext/subghz/Misc/Sextoy/EggVibrator/Egg_vib_mode.sub
 sub: /ext/subghz/Misc/Sextoy/EggVibrator/Egg_vib_power.sub
 sub: /ext/subghz/Misc/Sextoy/SinfulBulletVibrator/Sinful_level.sub
 sub: /ext/subghz/Misc/Sextoy/SinfulBulletVibrator/Sinful_power.sub
+sub: /ext/subghz/Misc/Sextoy/BangRing/BangRingPower.sub
+sub: /ext/subghz/Misc/Sextoy/BangRing/BangSpeedUp.sub
+sub: /ext/subghz/Misc/Sextoy/BangRing/BangModeUp.sub
+sub: /ext/subghz/Misc/Sextoy/BangRing/BangSpeedDown.sub
+sub: /ext/subghz/Misc/Sextoy/BangRing/BangModeDown.sub
+sub: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_on.sub
+sub: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_down.sub
+sub: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_lfrec.sub
+sub: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_mfrec.sub
+sub: /ext/subghz/Misc/Sextoy/LoveBox_Vibrating_Egg/Lovebox_up.sub
