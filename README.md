@@ -1,3 +1,10 @@
+<h3 align="center">
+<a href="https://github.com/SoPlug/FlipperPlugAndPlay">
+<img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055231021303476255/SP.png" align="center" alt="fzCUSTOM" border="0">
+</a>
+</h3>
+
+
 # ⚠️ Warning ⚠️
 I Am Not Liable For Anything You Do With This
 By Using This Git You Are Fully Responsible For Anything You Do
