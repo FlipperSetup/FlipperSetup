@@ -5,9 +5,13 @@
 </h3>
 
 
-# ⚠️ Warning ⚠️
-I Am Not Liable For Anything You Do With This
-By Using This Git You Are Fully Responsible For Anything You Do
+<h3 align="center">
+<a href="https://github.com/SoPlug/FlipperPlugAndPlay">
+<img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055383466646196234/warning.png" align="center" alt="fzCUSTOM" border="0">
+</a>
+</h3>
+
+# I Am Not Liable For Anything You Do With This By Using This Git You Are Fully Responsible For Anything You Do
 
 # Flipper Plug And Play
 If Im Missing Somthing Feel Free To Let Me Know Or Add It
