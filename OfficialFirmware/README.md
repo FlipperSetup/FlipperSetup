@@ -1,3 +1,9 @@
+<h3 align="center">
+<a href="https://github.com/SoPlug/FlipperPlugAndPlay">
+<img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055387923639443466/OfficialFirmware.png" align="center" alt="fzCUSTOM" border="0">
+</a>
+</h3>
+
 # All Info About Official Firmware Is Below
 ### NOTE I DO NOT CLAIM THIS PROJECT
 
