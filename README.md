@@ -7,7 +7,7 @@
 
 <h3 align="center">
 <a href="https://github.com/SoPlug/FlipperPlugAndPlay">
-<img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055383466646196234/warning.png" align="center" alt="fzCUSTOM" border="0">
+<img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055980482849931296/newWarn.png" align="center" alt="fzCUSTOM" border="0">
 </a>
 </h3>
 
