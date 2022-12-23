@@ -1,5 +1,5 @@
 <h3 align="center">
-<a href="https://github.com/SoPlug/FlipperPlugAndPlay">
+<a href="https://github.com/flipperdevices/flipperzero-firmware">
 <img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055387923639443466/OfficialFirmware.png" align="center" alt="fzCUSTOM" border="0">
 </a>
 </h3>
@@ -25,7 +25,7 @@ $ git clone --recursive https://github.com/flipperdevices/flipperzero-firmware.g
 
 # Read the Docs
 
-Check out details on [how to build firmware](documentation/fbt.md), [write applications](documentation/AppsOnSDCard.md), [un-brick your device](documentation/KeyCombo.md) and more in `documentation` folder. 
+Check out details on [how to build firmware](hhttps://github.com/flipperdevices/flipperzero-firmware/tree/dev/documentation/fbt.md), [write applications](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/documentation/AppsOnSDCard.md), [un-brick your device](https://github.com/flipperdevices/flipperzero-firmware/tree/dev/documentation/KeyCombo.md) and more in `documentation` folder. 
 
 # Update firmware
 
