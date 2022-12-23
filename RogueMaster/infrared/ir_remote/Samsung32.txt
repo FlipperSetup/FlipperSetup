@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/TVs/Samsung/Samsung.ir
+UP: Up
+DOWN: Down
+LEFT: Left
+RIGHT: Right
+OK: Select
+BACK: Back
+UPHOLD: Vol_up
+DOWNHOLD: Vol_down
+LEFTHOLD: Source
+RIGHTHOLD: SmartHub
+OKHOLD: POWER

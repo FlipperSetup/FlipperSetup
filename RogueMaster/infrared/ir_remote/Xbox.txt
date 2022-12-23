@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/Consoles/Microsoft/Xbox_Media_Remote.ir
+UP: Up
+DOWN: Down
+LEFT: Left
+RIGHT: Right
+OK: Home
+BACK: Back
+UPHOLD: Y
+DOWNHOLD: A
+LEFTHOLD: X
+RIGHTHOLD: B
+OKHOLD: POWER
