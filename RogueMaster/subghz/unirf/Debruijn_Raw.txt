@@ -1,8 +1,8 @@
-UP: /ext/subghz/Garages/deBruijn/Raw/Db8.sub
-DOWN: /ext/subghz/Garages/deBruijn/Raw/Db9.sub
-LEFT: /ext/subghz/Garages/deBruijn/Raw/Db10.sub
-RIGHT: /ext/subghz/Garages/deBruijn/Raw/Db11.sub
-OK: /ext/subghz/Garages/deBruijn/Raw/Db12.sub
+UP: /any/subghz/Garages/deBruijn/Raw/Db8.sub
+DOWN: /any/subghz/Garages/deBruijn/Raw/Db9.sub
+LEFT: /any/subghz/Garages/deBruijn/Raw/Db10.sub
+RIGHT: /any/subghz/Garages/deBruijn/Raw/Db11.sub
+OK: /any/subghz/Garages/deBruijn/Raw/Db12.sub
 ULABEL: 8 bit
 DLABEL: 9 bit
 LLABEL: 10 bit

@@ -1,10 +1,10 @@
 Filetype: Flipper SubGhz RAW File
 Version: 1
-UP: /ext/subghz/HandicapDoors/HandicapDoor1270.sub
-DOWN: /ext/subghz/HandicapDoors/HandicapDoor1650.sub
-LEFT: /ext/subghz/Handicap/handicap_push_door.sub
-RIGHT: /ext/subghz/Handicap/ook650_315brute.sub
-OK: /ext/subghz/Ok.sub
+UP: /any/subghz/HandicapDoors/HandicapDoor1270.sub
+DOWN: /any/subghz/HandicapDoors/HandicapDoor1650.sub
+LEFT: /any/subghz/Handicap/handicap_push_door.sub
+RIGHT: /any/subghz/Handicap/ook650_315brute.sub
+OK: /any/subghz/Ok.sub
 ULABEL: Handi Door 1270 
 DLABEL: Handi Door 1650
 LLABEL: Handicap Push Door 
