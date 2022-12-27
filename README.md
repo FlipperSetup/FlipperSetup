@@ -36,14 +36,3 @@ Is as Simple as drag and drop
 # Every File Was Found on 
 https://github.com/UberGuidoZ/Flipper
 
-# Changelogs
-
-```txt
-[Changes] - 12/27/22
-
-- Fixed Sub-Ghz Remote files to work on RM
-
-[Added]
-- N/a
-```
-
