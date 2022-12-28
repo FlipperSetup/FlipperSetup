@@ -32,6 +32,7 @@ Is as Simple as drag and drop
 ### [OfficialFirmware](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/OfficialFirmware)
 ### [Unleashed](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/Unleashed)
 ### [RogueMaster](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/RogueMaster)
+### [FlipperXtreme](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/FlipperXtreme)
 
 # Every File Was Found on 
 https://github.com/UberGuidoZ/Flipper
