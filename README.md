@@ -1,6 +1,6 @@
 <h3 align="center">
 <a href="https://github.com/SoPlug/FlipperPlugAndPlay">
-<img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055231021303476255/SP.png" align="center" alt="fzCUSTOM" border="0">
+<img src="https://cdn.discordapp.com/attachments/1057510272467750983/1058519458106327060/FS.png" align="center" alt="fzCUSTOM" border="0">
 </a>
 </h3>
 
