@@ -16,8 +16,6 @@
 # FlipperSetup
 If Im Missing Somthing Feel Free To Let Me Know Or Add It
 
-FPAP Isn't Done Still adding More
-
 For New Users or Current Users Plug & Play
 
 Will add steps just in case but it should be pretty clear on what to do
