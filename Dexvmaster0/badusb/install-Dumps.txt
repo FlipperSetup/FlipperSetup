@@ -1,0 +1,12 @@
+DELAY 3000
+WINDOWS r
+STRING notepad
+ENTER
+DELAY 300
+STRING 1. Join the Discord here: https://discord.gg/dexvirus
+ENTER
+REPEAT 1
+STRING 2. Download and install Dumps for Flipper Zero from here: https://github.com/AlphaxHax/Flipper-Files-For-DEXV-Firmware
+ENTER
+REPEAT 1
+STRING If you have any issues feel free to ask in the Discord or check out the ReadMe.md file on https://github.com/DXVVAY/Dexvmaster0
