@@ -1,0 +1,10 @@
+UP: /any/subghz/TouchTunes/brute/P1.sub
+DOWN: /any/subghz/TouchTunes/brute/P3_Skip.sub
+LEFT: /any/subghz/TouchTunes/brute/Music_Karaoke(star).sub
+RIGHT: /any/subghz/TouchTunes/brute/Music_Vol_Zone_1Up.sub
+OK: /any/subghz/TouchTunes/brute/Music_Vol_Zone_1Down.sub
+ULABEL: P1
+DLABEL: Skip
+LLABEL: Karaoke
+RLABEL: Vol Up
+OKLABEL: Vol Down

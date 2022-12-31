@@ -1,0 +1,4 @@
+UP: /any/subghz/Garages/deBruijn/EU_Edition/Binary/deBruijn433AllBit-EU.sub
+DOWN: /any/subghz/Garages/deBruijn/EU_Edition/Binary/deBruijn868AllBit-EU.sub
+ULABEL: 433
+DLABEL: 868

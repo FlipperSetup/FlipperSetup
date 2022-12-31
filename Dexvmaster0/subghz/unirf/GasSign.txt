@@ -1,0 +1,10 @@
+UP: /any/subghz/GasSign/Up_gas.sub
+DOWN: /any/subghz/GasSign/Down_gas.sub
+LEFT: /any/subghz/GasSign/Left_gas.sub
+RIGHT: /any/subghz/GasSign/Right_gas.sub
+OK: /any/subghz/GasSign/S_gas.sub
+ULABEL: Up
+DLABEL: Down
+LLABEL: Left
+RLABEL: Right
+OKLABEL: Set

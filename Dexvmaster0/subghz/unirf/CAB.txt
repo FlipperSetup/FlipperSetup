@@ -1,0 +1,12 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /any/subghz/Customer_Assistance_Buttons/CVS/CVS_Dental.sub
+DOWN: /any/subghz/Customer_Assistance_Buttons/CVS/CVS_Stomach.sub
+LEFT: /any/subghz/Customer_Assistance_Buttons/Walgreens/Walgreens_Vitamin.sub
+RIGHT: /any/subghz/Customer_Assistance_Buttons/Walgreens/Walgreens_Cough.sub
+OK: /any/subghz/Customer_Assistance_Buttons/Walgreens/Walgreens_Sincare.sub
+ULABEL: CVS Dental 
+DLABEL: CVS Stomach 
+LLABEL: Walgreens Vitamin
+RLABEL: Walgreens Cough
+OKLABEL: Walgreens Sincare

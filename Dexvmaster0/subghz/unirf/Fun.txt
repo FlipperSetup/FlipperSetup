@@ -1,0 +1,12 @@
+Filetype: Flipper SubGhz RAW File
+Version: 1
+UP: /any/subghz/Tesla/Tesla_charge_AM270.sub
+DOWN: /any/subghz/Tesla/Tesla_charge_AM650.sub
+LEFT: /any/subghz/HandicapDoors/HandicapDoor1270.sub
+RIGHT: /any/subghz/HandicapDoors/HandicapDoor1650.sub
+OK: /any/subghz/RoboDog/RoboDogKiller.sub
+ULABEL: Tesla AM270 
+DLABEL: Tesla AM650 
+LLABEL: Handi Door 1270 
+RLABEL: Handi Door 1650 
+OKLABEL: RoboDogKiller
