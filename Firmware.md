@@ -72,3 +72,21 @@ Want Your Firmware Added Fill Out This Form https://forms.gle/Erjvp1m31AWNpe8a6
     </kbd>
     </li>
 </ul>
+
+<h2 id="Dexvmaster0">
+    🚀 Dexvmaster0
+    <kbd>
+        <a href="https://github.com/DXVVAY/Dexvmaster0">DXVVAY/Dexvmaster0</a>
+    </kbd>
+</h2>
+<ul>
+    <li>DEXV-themed graphics and has some extra features that are not included in the Official Firmware.</li>
+    <li>For More Support Join the Discord  <kbd>
+        <a href="https://discord.gg/dexvirus">Click Here</a>
+    </kbd>
+    </li>
+    <li>Check Out Are PreSetup For this Firmware <kbd>
+        <a href="/Dexvmaster0">Click Here</a>
+    </kbd>
+    </li>
+</ul>
