@@ -31,7 +31,7 @@ Is as Simple as drag and drop
 <table>
     <tr>
         <td>
-            <strong>Jump to:</strong>
+            <strong>Firmwares:</strong>
         </td>
         <td><a href="/OfficialFirmware">OfficialFirmware</a></td>
         <td><a href="/Unleashed">Unleashed</a></td>
