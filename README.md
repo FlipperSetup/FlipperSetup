@@ -27,10 +27,18 @@ FPAP Is ment to help new users setup there flippers easier
 Is as Simple as drag and drop
 
 # Firmware Folders
-### [OfficialFirmware](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/OfficialFirmware)
-### [Unleashed](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/Unleashed)
-### [RogueMaster](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/RogueMaster)
-### [FlipperXtreme](https://github.com/SoPlug/FlipperPlugAndPlay/tree/main/FlipperXtreme)
+
+<table>
+    <tr>
+        <td>
+            <strong>Jump to:</strong>
+        </td>
+        <td><a href="/OfficialFirmware">OfficialFirmware</a></td>
+        <td><a href="/Unleashed">Unleashed</a></td>
+        <td><a href="/RogueMaster">RogueMaster</a></td>
+        <td><a href="/FlipperXtreme">FlipperXtreme</a></td>
+    </tr>
+</table>
 
 # Every File Was Found on 
 https://github.com/UberGuidoZ/Flipper
