@@ -1,4 +1,6 @@
-
+<p align="center">
+    <img alt="ViewCount" src="https://views.whatilearened.today/views/github/SoPlug/github-clone-count-badge.svg">
+</p>
 <h3 align="center">
 <a href="https://github.com/SoPlug/FlipperPlugAndPlay">
 <img src="https://cdn.discordapp.com/attachments/1057510272467750983/1058519458106327060/FS.png" align="center" alt="fzCUSTOM" border="0">
@@ -45,5 +47,3 @@ Is as Simple as drag and drop
 
 # Every File Was Found on 
 https://github.com/UberGuidoZ/Flipper
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=SoPlug.visitor-badge)
