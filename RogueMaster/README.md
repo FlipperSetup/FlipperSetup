@@ -1,5 +1,5 @@
 <h3 align="center">
-<a href="https://github.com/SoPlug/FlipperPlugAndPlay">
+<a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins">
 <img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055387924100829254/RogueMaster.png" align="center" alt="fzCUSTOM" border="0">
 </a>
 </h3>
