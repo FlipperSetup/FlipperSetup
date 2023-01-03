@@ -1,5 +1,5 @@
 <h3 align="center">
-<a href="https://github.com/SoPlug/FlipperPlugAndPlay">
+<a href="https://github.com/DarkFlippers/unleashed-firmware/">
 <img src="https://cdn.discordapp.com/attachments/1026942721182662697/1055387924499279943/Unleashed.png" align="center" alt="fzCUSTOM" border="0">
 </a>
 </h3>
