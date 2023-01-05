@@ -1,4 +1,11 @@
-# Steps
+# FlipperSetup Steps
+Must Due First
+
+* Press And Hold The Back Button Til It Turns Off
+* Then Remove The SD
+* Plug It Into Your Computer
+
+## Note There Was A Name Change From FipperPlugAndPlay To FlipperSetup
 
 ### You Still Don't Understand
 
