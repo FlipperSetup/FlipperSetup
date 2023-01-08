@@ -16,19 +16,12 @@
 
 # I Am Not Liable For Anything You Do With This By Using This Git You Are Fully Responsible For Anything You Do
 
-
-# FlipperSetup
-If Im Missing Somthing Feel Free To Let Me Know Or Add It
-
-For New Users or Current Users Plug & Play
-
-Will add steps just in case but it should be pretty clear on what to do
-[Steps](https://github.com/SoPlug/FlipperSetup/blob/main/Steps.md)
-
-# What is FlipperSetup
-
-FPAP Is ment to help new users setup there flippers easier 
-Is as Simple as drag and drop
+# What Is FlipperSetup
+FlipperSetup Is Ment To Be A Easy Way To Just Drag And Drop All File From <kbd> 
+        <a href="https://github.com/UberGuidoZ/Flipper">UberGuidoZ/Flipper</a>
+    </kbd> And <kbd> 
+        <a href="https://github.com/UberGuidoZ/Flipper-IRDB">UberGuidoZ/Flipper-IRDB</a>
+    </kbd> I Have Compiled A Folder For Each Firmware
 
 # Firmware Folders
 
@@ -44,6 +37,3 @@ Is as Simple as drag and drop
         <td><a href="/Dexvmaster0">Dexvmaster0</a></td>
     </tr>
 </table>
-
-# Every File Was Found on 
-https://github.com/UberGuidoZ/Flipper
