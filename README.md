@@ -35,7 +35,7 @@ Now Follow The Seteps Below
 * Step 1 - First Click On The Green Button It Should Say Code
 * Step 2 - Next Click On Download Zip And Save It
 * Step 3 - Open The File FlipperSetup-main.zip
-* Step 4 - Click On FlipperSetup-main Now You Should See 4 Different Folders
+* Step 4 - Click On FlipperSetup-main Now You Should See 5 Different Folders
 * Step 5 - Depending On What Firmware Your Using You Will Want To Choose That Firmware Folder [Example Unleashed]
 * Step 6 - Now Open The Firmware Folder And Drag And Drop
 
