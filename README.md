@@ -40,17 +40,20 @@ Now Follow The Seteps Below
 * Step 6 - Now Open The Firmware Folder And Drag And Drop
 
 
-# Firmware Folders
+# Firmware
 
-<table>
-    <tr>
-        <td>
-            <strong>Firmwares:</strong>
-        </td>
-        <td><a href="/OfficialFirmware">OfficialFirmware</a></td>
-        <td><a href="/Unleashed">Unleashed</a></td>
-        <td><a href="/RogueMaster">RogueMaster</a></td>
-        <td><a href="/FlipperXtreme">FlipperXtreme</a></td>
-        <td><a href="/Dexvmaster0">Dexvmaster0</a></td>
-    </tr>
-</table>
+* <kbd> 
+        <a href="/OfficialFirmware">OfficialFirmware</a>
+    </kbd>
+* <kbd> 
+        <a href="/Unleashed">Unleashed</a>
+    </kbd>
+* <kbd> 
+        <a href="/RogueMaster">RogueMaster</a>
+    </kbd>
+* <kbd> 
+        <a href="/FlipperXtreme">FlipperXtreme</a>
+    </kbd>
+* <kbd> 
+        <a href="/Dexvmaster0">Dexvmaster0</a>
+    </kbd>
