@@ -5,11 +5,11 @@
         <td>
             <strong>Take Me To:</strong>
         </td>
-        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----official------------flipperdevicesflipperzero-firmware----">OfficialFirmware</a></td>
-        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----unleashed------------darkflippersunleashed-firmware----">Unleashed</a></td>
-        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----roguemaster------------roguemasterflipperzero-firmware-wplugins----">RogueMaster</a></td>
-        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----flipper-xtreme------------claracrazyflipper-xtreme----">FlipperXtreme</a></td>
-        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----dexvmaster0------------dxvvaydexvmaster0----">Dexvmaster0</a></td>
+        <td><a href="https://github.com/FlipperSetup/FlipperSetup/edit/main/FirmwareInstallSteps.md#-----official------------flipperdevicesflipperzero-firmware----">OfficialFirmware</a></td>
+        <td><a href="https://github.com/FlipperSetup/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----unleashed------------darkflippersunleashed-firmware----">Unleashed</a></td>
+        <td><a href="https://github.com/FlipperSetup/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----roguemaster------------roguemasterflipperzero-firmware-wplugins----">RogueMaster</a></td>
+        <td><a href="https://github.com/FlipperSetup/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----flipper-xtreme------------claracrazyflipper-xtreme----">FlipperXtreme</a></td>
+        <td><a href="https://github.com/FlipperSetup/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----dexvmaster0------------dxvvaydexvmaster0----">Dexvmaster0</a></td>
     </tr>
 </table>
 
@@ -82,7 +82,7 @@
 * Now Plug In Your Flipper Zero
 * Now You Should See Info About Your Flipper Zero
 * Now Install <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/RogueMaster/flipper-z-f7-update-RM0106-2259.tgz">RM0106-2259.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/RogueMaster/flipper-z-f7-update-RM0106-2259.tgz">RM0106-2259.tgz</a>
     </kbd> And Save It Head Back To lab.flipper.net
 * On The Top Right You Should See A Button With The Name Of Your Flipper Click On It
 * You Will See A Settings Popup Now Enabel 3rd Party Firmware Install
@@ -96,7 +96,7 @@
 * Now Follow The qFlipper Setup Prompt
 * When Done Open qFlipper
 * Now Install <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/RogueMaster/flipper-z-f7-update-RM0106-2259.tgz">RM0106-2259.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/RogueMaster/flipper-z-f7-update-RM0106-2259.tgz">RM0106-2259.tgz</a>
     </kbd>
 * Now You Will Want To Click On Insatall From File
 * Select The RM0106-2259.tgz That You Downloaded
@@ -117,7 +117,7 @@
 * Now Plug In Your Flipper Zero
 * Now You Should See Info About Your Flipper Zero
 * Now Install <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/FlipperXtreme/XFW-0037_01072023.tgz">XFW-0037_01072023.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/FlipperXtreme/XFW-0037_01072023.tgz">XFW-0037_01072023.tgz</a>
     </kbd> And Save It Head Back To lab.flipper.net
 * On The Top Right You Should See A Button With The Name Of Your Flipper Click On It
 * You Will See A Settings Popup Now Enabel 3rd Party Firmware Install
@@ -131,7 +131,7 @@
 * Now Follow The qFlipper Setup Prompt
 * When Done Open qFlipper
 * Now Install <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/FlipperXtreme/XFW-0037_01072023.tgz">XFW-0037_01072023.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/FlipperXtreme/XFW-0037_01072023.tgz">XFW-0037_01072023.tgz</a>
     </kbd>
 * Now You Will Want To Click On Insatall From File
 * Select The RM0106-2259.tgz That You Downloaded
@@ -152,7 +152,7 @@
 * Now Plug In Your Flipper Zero
 * Now You Should See Info About Your Flipper Zero
 * Now Install <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/Dexvmaster0/flipper-z-f7-update-Dexvmaster0-1-5.tgz">Dexvmaster0-1-5.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Dexvmaster0/flipper-z-f7-update-Dexvmaster0-1-5.tgz">Dexvmaster0-1-5.tgz</a>
     </kbd> And Save It Head Back To lab.flipper.net
 * On The Top Right You Should See A Button With The Name Of Your Flipper Click On It
 * You Will See A Settings Popup Now Enabel 3rd Party Firmware Install
@@ -166,7 +166,7 @@
 * Now Follow The qFlipper Setup Prompt
 * When Done Open qFlipper
 * Now Install <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/Dexvmaster0/flipper-z-f7-update-Dexvmaster0-1-5.tgz">Dexvmaster0-1-5.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Dexvmaster0/flipper-z-f7-update-Dexvmaster0-1-5.tgz">Dexvmaster0-1-5.tgz</a>
     </kbd>
 * Now You Will Want To Click On Insatall From File
 * Select The RM0106-2259.tgz That You Downloaded
