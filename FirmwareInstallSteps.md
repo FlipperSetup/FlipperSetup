@@ -5,11 +5,11 @@
         <td>
             <strong>Take Me To:</strong>
         </td>
-        <td><a href="official">OfficialFirmware</a></td>
-        <td><a href="unleashed">Unleashed</a></td>
-        <td><a href="RogueMaster">RogueMaster</a></td>
-        <td><a href="FlipperXtreme">FlipperXtreme</a></td>
-        <td><a href="Dexvmaster0">Dexvmaster0</a></td>
+        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----official------------flipperdevicesflipperzero-firmware----">OfficialFirmware</a></td>
+        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----unleashed------------darkflippersunleashed-firmware----">Unleashed</a></td>
+        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----roguemaster------------roguemasterflipperzero-firmware-wplugins----">RogueMaster</a></td>
+        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----flipper-xtreme------------claracrazyflipper-xtreme----">FlipperXtreme</a></td>
+        <td><a href="https://github.com/SoPlug/FlipperSetup/blob/main/FirmwareInstallSteps.md#-----dexvmaster0------------dxvvaydexvmaster0----">Dexvmaster0</a></td>
     </tr>
 </table>
 
