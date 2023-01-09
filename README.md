@@ -1,5 +1,8 @@
 <p align="center">
     <img alt="ViewCount" src="https://views.whatilearened.today/views/github/SoPlug/github-clone-count-badge.svg">
+    <a href="https://discord.gg/kJgzQKhXbq">
+        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
+            alt="Discord"></a>
 </p>
 <h3 align="center">
 <a href="https://github.com/SoPlug/FlipperPlugAndPlay">
