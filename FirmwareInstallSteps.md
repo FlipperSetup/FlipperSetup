@@ -45,7 +45,7 @@
   
   
 ### Using The Web Updater
-* First Open [https://lab.flipper.net/unleashed-unlshd-023](https://lab.flipper.net/?url=https://unleashedflip.com/fw/unlshd-023/flipper-z-f7-update-unlshd-023.tgz&channel=release-cfw&version=unlshd-023) In A New Tab
+* First Open [https://lab.flipper.net/unleashed-unlshd-025](https://lab.flipper.net/?url=https://unleashedflip.com/fw/unlshd-025/flipper-z-f7-update-unlshd-025.tgz&channel=release-cfw&version=unlshd-025) In A New Tab
 * Make Sure qFlipper Is Closed Or It Will Not Work
 * Now Plug In Your Flipper Zero
 * Now You Should See Info About Your Flipper Zero
@@ -57,11 +57,11 @@
 * Now Follow The qFlipper Setup Prompt
 * When Done Open qFlipper
 * Now Install One Of The 3 Options <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-023.tgz">Default Unlshd-023.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-025.tgz">Default Unlshd-025.tgz</a>
     </kbd> | <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-023e.tgz">Has extra apps Unlshd-023e.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-025e.tgz">Has extra apps Unlshd-025e.tgz</a>
     </kbd> | <kbd>
-        <a href="https://github.com/SoPlug/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-023n.tgz">No Custom animations Unlshd-023n.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-025n.tgz">No Custom animations Unlshd-025n.tgz</a>
     </kbd> And Save It
 * Now You Will Want To Click On Insatall From File
 * Select The unlshd.tgz That You Downloaded
