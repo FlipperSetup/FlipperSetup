@@ -152,7 +152,7 @@
 * Now Plug In Your Flipper Zero
 * Now You Should See Info About Your Flipper Zero
 * Now Install <kbd>
-        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Dexvmaster0/flipper-z-f7-update-Dexvmaster0-1-5.tgz">Dexvmaster0-1-5.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Dexvmaster0/flipper-z-f7-update-Dexvmaster0-V-1-6.tgz">Dexvmaster0-V-1-6.tgz</a>
     </kbd> And Save It Head Back To lab.flipper.net
 * On The Top Right You Should See A Button With The Name Of Your Flipper Click On It
 * You Will See A Settings Popup Now Enabel 3rd Party Firmware Install
@@ -166,7 +166,7 @@
 * Now Follow The qFlipper Setup Prompt
 * When Done Open qFlipper
 * Now Install <kbd>
-        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Dexvmaster0/flipper-z-f7-update-Dexvmaster0-1-5.tgz">Dexvmaster0-1-5.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Dexvmaster0/flipper-z-f7-update-Dexvmaster0-V-1-6.tgz">Dexvmaster0-V-1-6.tgz</a>
     </kbd>
 * Now You Will Want To Click On Insatall From File
 * Select The RM0106-2259.tgz That You Downloaded
