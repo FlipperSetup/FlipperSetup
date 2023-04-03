@@ -33,7 +33,7 @@ Must Due First
 * Then Remove The SD
 * Plug It Into Your Computer
 
-Now Follow The Seteps Below
+Now Follow The Steps Below
 # 
 * Step 1 - First Click On The Green Button It Should Say Code
 * Step 2 - Next Click On Download Zip And Save It
