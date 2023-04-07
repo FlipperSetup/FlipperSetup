@@ -57,11 +57,11 @@
 * Now Follow The qFlipper Setup Prompt
 * When Done Open qFlipper
 * Now Install One Of The 3 Options <kbd>
-        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-040.tgz">Default Unlshd-040.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-041.tgz">Default Unlshd-041.tgz</a>
     </kbd> | <kbd>
-        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-040e.tgz">Has extra apps Unlshd-040e.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-041e.tgz">Has extra apps Unlshd-041e.tgz</a>
     </kbd> | <kbd>
-        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-040n.tgz">No Custom animations Unlshd-040n.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/Unleashed/flipper-z-f7-update-unlshd-041n.tgz">No Custom animations Unlshd-041n.tgz</a>
     </kbd> And Save It
 * Now You Will Want To Click On Insatall From File
 * Select The unlshd.tgz That You Downloaded
