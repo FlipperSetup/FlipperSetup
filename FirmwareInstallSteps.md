@@ -112,12 +112,12 @@
   
   
 ### Using The Web Updater
-* First Open https://lab.flipper.net/ In A New Tab
+* First Open [https://lab.flipper.net/XFW-0046_06052023](https://lab.flipper.net/?url=https://cloud.cynthialabs.net/s/AQ7GMwZMXqAB37f/download/XFW-0046_06052023.tgz&channel=XFW-Updater&version=XFW-0046_06052023) In A New Tab
 * Make Sure qFlipper Is Closed Or It Will Not Work
 * Now Plug In Your Flipper Zero
 * Now You Should See Info About Your Flipper Zero
 * Now Install <kbd>
-        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/FlipperXtreme/XFW-0042_09032023.tgz">XFW-0042_09032023.tgz</a>
+        <a href="https://github.com/FlipperSetup/FlipperSetup/releases/download/FlipperXtreme/XFW-0046_06052023.tgz">XFW-0046_06052023.tgz</a>
     </kbd> And Save It Head Back To lab.flipper.net
 * On The Top Right You Should See A Button With The Name Of Your Flipper Click On It
 * You Will See A Settings Popup Now Enabel 3rd Party Firmware Install
